@@ -106,4 +106,3 @@ Or simply double-click **index.html**.
 ## 👩‍💻 Author
 
 **Sidra Liaqat**
-ng HTML, CSS & JavaScript.
