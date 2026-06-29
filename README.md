@@ -106,11 +106,4 @@ Or simply double-click **index.html**.
 ## 👩‍💻 Author
 
 **Sidra Liaqat**
-
----
-
-It helps others discover the project and motivates future improvements.
-
----
-
-Made with ❤️ using HTML, CSS & JavaScript.
+ng HTML, CSS & JavaScript.
