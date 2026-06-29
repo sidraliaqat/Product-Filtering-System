@@ -4,7 +4,7 @@ A modern and responsive **Product Filtering System** built with **HTML, CSS, and
 
 ## 🚀 Live Demo
 
-🔗 **Demo:** https://sidraliaqat.github.io/product-filtering-system/
+🔗 **Demo:** https://sidraliaqat.github.io/Product-Filtering-System/
 
 ---
 
